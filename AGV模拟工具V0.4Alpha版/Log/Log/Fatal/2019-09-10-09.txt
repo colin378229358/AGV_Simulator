@@ -1,0 +1,3 @@
+﻿2019-09-10 09:15:10,696 [1] FATAL 2019-09-10-09  - 服务停止异常!
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 AGVSimulationTool.Manager.StopServer() 位置 D:\VisualStudio2017\Project\iVCS\02_SRC\02_Simulator\iValon.System.SimulationTool\AGVSimulationTool\Manager\Manager.cs:行号 109
